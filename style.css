@@ -1,0 +1,43 @@
+body  {
+    background-image: url("https://i.ibb.co/nn1zxXJ/756134012345.jpg");
+  
+  }
+
+  
+
+.todo-input {
+    width: 350px;
+    height: 40px;
+    align-items: center !important;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    color:	#909090;
+    
+      
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn-secondary {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0px;
+    
+
+}
+
+
+.list_group_item{
+    text-decoration: underline;
+    text-align: center !important;
+    display: block;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+    color:	#909090;
+    
+    
+}
+
